@@ -1,4 +1,4 @@
-# A00: Getting Started and Setup
+#A00: Getting Started and Setup
 
 Your Name: Samantha Schweinsberg
 
